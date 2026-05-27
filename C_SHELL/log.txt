@@ -1,0 +1,15 @@
+hop ./HeaderFiles
+hop ~/HeaderFiles
+hop ~/HeaderFiles
+hop ./HeaderFiles
+hop ./HeaderFiles
+hop HeaderFiles
+reveal -l /HeaderFiles
+reveal - l /HeaderFiles
+reveal -l /HeaderFiles
+reveal -l HomeHuhh
+
+ls
+pwd
+echo hello
+exit
